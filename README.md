@@ -13,6 +13,7 @@ Para ejecutar el cript son necesarias las siguientes librerias:
  - import requests 
  - import bs4
  - import pandas
+ - import tkinter
 
 el archivo se ejecuta con el siguiente comando:
 py imdb.py
