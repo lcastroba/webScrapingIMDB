@@ -10,9 +10,9 @@ Extrae los datos de las 50 peliculas mas taquilleras  en USA hasta la fecha.
 
 Para ejecutar el cript son necesarias las siguientes librerias:
 
-import requests
-import bs4
-import pandas
+ - import requests 
+ - import bs4
+ - import pandas
 
 el archivo se ejecuta con el siguiente comando:
 py imdb.py
@@ -23,13 +23,13 @@ solicitara un lugar donde guardar el archivo y su nombre
 Extrae los siguientes campos:
 
 
-Nombre
-Recaudación
-Fecha
-Calificacion imdb
-Censura
-Duracion
-Genero
-Resumen
+ - Nombre
+ - Recaudación
+ - Fecha
+ - Calificacion imdb
+ - Censura
+ - Duracion
+ - Genero
+ - Resumen
 
 
